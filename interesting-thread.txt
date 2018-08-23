@@ -1,0 +1,4 @@
+Jo Liss had this interesting thread about how Mathematica does this
+same effect but with mathematical formulas instead of text
+
+https://twitter.com/jo_liss/status/1032604967377481728
